@@ -1,0 +1,45 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+pubspec.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# macOS
+*.DS_Store
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+
+# iOS
+DerivedData/
+*.xcworkspace/
+*.xcuserstate
+*.xcscheme
+*.xcuserdata
+*.hmap
+*.ipa
+
+# Web
+.dart_tool/
+build/
+*.lock
+
+# Test coverage
+coverage/
+
+# Local development environment files
+*.env
